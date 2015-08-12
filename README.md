@@ -1,2 +1,2 @@
 # hello-world
-My first project to test GitHub.
+My very first project to test GitHub!
